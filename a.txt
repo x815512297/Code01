@@ -3,7 +3,6 @@ bbbbbb
 cccccc
 dddddd
 master
-DEVEEE
 public class HelloWord{
  public static void main(string[] arg){
 	System.out.println("HelloWord");
